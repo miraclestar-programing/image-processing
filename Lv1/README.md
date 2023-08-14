@@ -2,6 +2,8 @@
 
 ファイル名と内容について解説↓
 
-image_thresholding：画像の２値化
-
-HSV_conversion：画像のHSV変換
+No.1：画像の２値化
+No.2：画像のHSV変換
+No.3：画像の減色処理
+No.4：画像の平均プーリング
+No.5：画像の最大プーリング
